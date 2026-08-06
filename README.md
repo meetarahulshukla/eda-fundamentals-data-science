@@ -14,7 +14,7 @@ This repository is split into distinct modules covering the lifecycle of data pr
    * Outlier detection via Z-Score, IQR, and visual plots.
    * Multivariate analysis and automated EDA tool profiles.
 
-2. **[Categorical Encoding Guide](./categorical-encoding.md)**
+2. **[Categorical Encoding Guide](./ENCODING.md)**
    * Strategic implementations of One-Hot, Label, and Ordinal encoding.
    * Algorithmic considerations and avoidance of artificial order.
    * Advanced transformation techniques including binning and rare category grouping.
