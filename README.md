@@ -18,6 +18,12 @@ This repository is split into distinct modules covering the lifecycle of data pr
    * Strategic implementations of One-Hot, Label, and Ordinal encoding.
    * Algorithmic considerations and avoidance of artificial order.
    * Advanced transformation techniques including binning and rare category grouping.
+  
+3. **[Feature Scaling Guide](./feature-scaling.md)**
+   * Mathematical workflows of Standardisation vs. Min-Max Normalisation.
+   * Algorithmic impact on distance-based and gradient descent architectures.
+   * Criteria for scale-invariance in tree-based models.
+
 
 ---
 
