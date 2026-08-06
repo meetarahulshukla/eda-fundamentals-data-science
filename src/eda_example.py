@@ -25,3 +25,4 @@ outliers = df[(df['Age'] < lower_bound) | (df['Age'] > upper_bound)]
 print("\n--- Detected Outliers ---")
 print(outliers)
 
+![Jupyter Notebook Run](./images/Screenshot_eda.png)
